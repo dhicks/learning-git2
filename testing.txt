@@ -1,4 +1,4 @@
 something
 more something
 yet another change
-a mistake! 
+I've fixed the mistake
